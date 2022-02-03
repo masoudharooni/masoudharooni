@@ -1,10 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Masoud Harooni 🙋‍♂️😁</h1>
+<h3 align="center">A hard worker student 😃💻 and a creative PHP programmer😎✔</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoudharooni&label=Profile%20views&color=0e75b6&style=flat" alt="masoudharooni" /> </p>
 
 - 🔭 I’m currently working on **Belfius Banking**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **TDD in PHP**
 
 - 👨‍💻 All of my projects are available at [github.com/masoudharooni](github.com/masoudharooni)
 
