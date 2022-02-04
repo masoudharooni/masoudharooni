@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **masoudharooni50@gmail.com**
 
-- ⚡ Fun fact **I believe you are alone in the world so you have to raise your level**
+- ⚡ fact **I believe you are alone in the world so you have to raise your level**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
