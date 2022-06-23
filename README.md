@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Belfius Banking**
 
-- 🌱 I’m currently learning **TDD in PHP**
+- 🌱 I’m currently learning **Laravel Framework**
 
 - 👨‍💻 All of my projects are available at [github.com/masoudharooni](github.com/masoudharooni)
 
