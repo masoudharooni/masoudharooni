@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoudharooni&label=Profile%20views&color=0e75b6&style=flat" alt="masoudharooni" /> </p>
 
-- 🔭 I’m currently working on **An OnlineShop with Laravel**
-
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **Javascript programming language**
 
 - 👨‍💻 All of my projects are available at [github.com/masoudharooni](github.com/masoudharooni)
 
